@@ -2,5 +2,5 @@
 
 [[`arXiv`](https://arxiv.org/pdf/2509.13181)]
 
-https://github.com/user-attachments/assets/1215fb3c-c262-449b-8ff2-fcfdd92269ae
+https://github.com/user-attachments/assets/47a5ce9c-73d9-4412-9f56-140a379be7a6
 
