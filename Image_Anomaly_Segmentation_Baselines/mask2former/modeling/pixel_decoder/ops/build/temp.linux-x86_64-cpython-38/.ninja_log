@@ -1,0 +1,4 @@
+# ninja log v6
+7	12355	1738829791000000000	/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	173cac53d6d032b2
+10	34197	1738829791000000000	/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	81c793e8f0381590
+104	39853	1738829791000000000	/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/shared-network/srai/VAS/code/IASBaselines/RbA/mask2former/modeling/pixel_decoder/ops/src/vision.o	df1246d114a6741d
